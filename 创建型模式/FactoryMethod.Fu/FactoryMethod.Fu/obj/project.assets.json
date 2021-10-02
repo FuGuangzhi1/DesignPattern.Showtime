@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryPattern.Fu\\FactoryPattern.Fu\\FactoryMethod.Fu.csproj",
+      "projectUniqueName": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryMethod.Fu\\FactoryMethod.Fu\\FactoryMethod.Fu.csproj",
       "projectName": "FactoryMethod.Fu",
-      "projectPath": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryPattern.Fu\\FactoryPattern.Fu\\FactoryMethod.Fu.csproj",
+      "projectPath": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryMethod.Fu\\FactoryMethod.Fu\\FactoryMethod.Fu.csproj",
       "packagesPath": "C:\\Users\\Administrator.DESKTOP-QSUFVR3\\.nuget\\packages\\",
-      "outputPath": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryPattern.Fu\\FactoryPattern.Fu\\obj\\",
+      "outputPath": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryMethod.Fu\\FactoryMethod.Fu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator.DESKTOP-QSUFVR3\\AppData\\Roaming\\NuGet\\NuGet.Config",

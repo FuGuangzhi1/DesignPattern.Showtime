@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiFGQPnLqDdbpzxXZODImnTOAyeKdaXIaw0sf4DlqENvhQXdC9mgExgsoyKu4N5cuZRkEe5ayyMdRFZ8rKpflg==",
+  "dgSpecHash": "SREnd5zxfFkCwVc4ABaYgP4e1mJr16LPbkr2ESmj+ceij3aAVb2zZHZv46MsTWFK6AR03/eBxC/qMoyUc7PUlg==",
   "success": true,
-  "projectFilePath": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryPattern.Fu\\FactoryPattern.Fu\\FactoryMethod.Fu.csproj",
+  "projectFilePath": "E:\\Git仓库\\DesignPattern_Showtime\\创建型模式\\FactoryMethod.Fu\\FactoryMethod.Fu\\FactoryMethod.Fu.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
