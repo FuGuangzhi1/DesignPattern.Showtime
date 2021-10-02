@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryPattern.Fu
+namespace FactoryMethod.Fu
 {
     /// <summary>
     /// 抽象类Creator（中文：创建者）

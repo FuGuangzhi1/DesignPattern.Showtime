@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern.Fu", "FactoryPattern.Fu\FactoryPattern.Fu.csproj", "{D3114168-F645-437F-833E-080EB9D89758}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.Fu", "FactoryPattern.Fu\FactoryMethod.Fu.csproj", "{D3114168-F645-437F-833E-080EB9D89758}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

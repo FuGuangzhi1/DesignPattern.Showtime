@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryPattern.Fu
+namespace FactoryMethod.Fu
 {
     /// <summary>
     /// 定义一个接口IProduct（中文:产品）

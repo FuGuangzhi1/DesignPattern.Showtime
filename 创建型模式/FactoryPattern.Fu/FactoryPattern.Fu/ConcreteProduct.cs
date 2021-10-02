@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryPattern.Fu
+namespace FactoryMethod.Fu
 {
     /// <summary>
     /// 实现接口IProduct的 ConcreteProduct1
